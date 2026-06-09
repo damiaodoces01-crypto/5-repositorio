@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Desistência Escolar",
+  "description": "Uma ferramenta prática para calcular o impacto financeiro da evasão escolar, acompanhando os ganhos de mensalidades e os valores perdidos por desistências em um painel intuitivo e visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
